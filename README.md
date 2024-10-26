@@ -1,4 +1,4 @@
-Here’s the updated version for your GitHub 
+
 # Hey there! I'm Iamiak 👋  
 I’m a full-stack developer with a focus on game and web development, primarily using Python. I strive to create seamless, engaging experiences for users. Check out my projects and feel free to connect with me!
 
