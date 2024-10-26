@@ -4,7 +4,6 @@ I’m a full-stack developer with a focus on game and web development, primarily
 
 ## Skills & Technologies:
 - **Languages**: Python, HTML, CSS, Luau
-- **Game Development**: Pygame (Python only)
 - **Web Development**: Flask
 - **Automation**: Discord bots, cross-platform integrations
 - **UI/UX**: Building clean and user-friendly interfaces
